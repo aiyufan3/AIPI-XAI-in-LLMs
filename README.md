@@ -5,12 +5,6 @@ This project explores the use of **Explainable AI (XAI)** techniques to interpre
 
 ---
 
-### GitHub README
-
-```markdown
-# Explainable AI (XAI) in Language Model Analysis
-
-This project demonstrates the application of **Explainable AI (XAI)** techniques—**Saliency Maps** and **Perturbation Analysis**—to interpret the behavior of a language model. By identifying and validating influential tokens, the project provides insights into the model's decision-making process for textual prompts.
 
 ## Project Overview
 
