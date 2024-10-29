@@ -58,3 +58,11 @@ This project highlights the effectiveness of **Saliency Maps** and **Perturbatio
 ## License
 
 This project is licensed under the MIT License.
+
+## Reference
+
+
+1. Bent, B. (n.d.). *Counterfactual Explanations in Explainable AI*. Retrieved from [https://github.com/brinnaebent/Duke-AI-XAI/blob/main/explainable-ml-example-notebooks/counterfactul_explanations.ipynb](https://github.com/brinnaebent/Duke-AI-XAI/blob/main/explainable-ml-example-notebooks/counterfactul_explanations.ipynb)
+
+2. Bent, B. (n.d.). *Saliency Maps in Explainable AI*. Retrieved from [https://github.com/brinnaebent/Duke-AI-XAI/blob/main/explainable-ml-example-notebooks/saliency_maps.ipynb](https://github.com/brinnaebent/Duke-AI-XAI/blob/main/explainable-ml-example-notebooks/saliency_maps.ipynb)
+
