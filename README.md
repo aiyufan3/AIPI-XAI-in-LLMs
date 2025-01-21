@@ -1,4 +1,4 @@
-# AIPI-XAI-in-LLMs
+# XAI-in-LLMs
 ### Project Description
 
 This project explores the use of **Explainable AI (XAI)** techniques to interpret a language model’s behavior when analyzing textual prompts. Specifically, it applies **Saliency Maps** and **Perturbation Analysis** to identify and validate the influence of individual tokens on the model's predictions. Saliency maps visualize which tokens are most influential in shaping the model’s output by calculating gradients, while perturbation analysis tests the model's sensitivity by modifying high-saliency tokens and observing the resulting prediction changes. This project aims to enhance transparency in language models by uncovering which parts of the prompt drive decision-making, ultimately providing deeper insights into model interpretability.
